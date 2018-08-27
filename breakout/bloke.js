@@ -1,4 +1,4 @@
-class Block {SH
+class Block {
     constructor(x, y, width, height, color) {
         this.x = x;
         this.y = y;
